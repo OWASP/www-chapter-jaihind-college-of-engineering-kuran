@@ -16,11 +16,11 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+<li>OWASP Jaihind College of Engineering Kuran</li>
 
 <li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
 
-<li>region: This is the region you are in according to our data</li>
+<li>Pune, Maharashtra, India - 410511</li>
 
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
 </ul>
