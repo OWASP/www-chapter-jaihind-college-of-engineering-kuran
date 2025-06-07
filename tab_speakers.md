@@ -3,7 +3,8 @@ title: Speakers
 layout:  null
 tab: true
 order: 2
-tags: OWASP JCOE
+tags: example-tag
+
 ---
 
 ## Speakers
