@@ -11,7 +11,7 @@ tags: example-tag
 ### Upcoming Events
 
 - **National Level Seminar on Cybersecurity and CTFs**
-  - **Date:** July 2025
+  - **Date:** 23 July 2025
   - **Description:** We are organizing a national level seminar focusing on cybersecurity trends and Capture The Flag (CTF) competitions. The event will feature expert sessions, panel discussions, and interactive workshops designed to help students and professionals deepen their knowledge in cybersecurity and CTF methodologies.
   - **Sponsor:** HackerOne
 
