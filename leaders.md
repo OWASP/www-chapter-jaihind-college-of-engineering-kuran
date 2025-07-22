@@ -5,6 +5,6 @@
 **<img width = "200" height = "200" src="assets/parth_patil.jpg"/>**
 * [Parth Patil, Student Leader](mailto:parth.patil@owasp.org)
 
-**<img width = "200" height = "200" src="assets/Pranav_Malkunaik.jpg"/>**
+**<img width = "200" height = "200" src="assets/Pranav_Malkunaik.JPG"/>**
 * [Pranav Malkunaik, Student Leader](mailto:pranav.malkunaik@owasp.org)
 
