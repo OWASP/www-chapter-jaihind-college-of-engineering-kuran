@@ -15,13 +15,13 @@ Meet the dedicated members driving the OWASP Jaihind College of Engineering Kura
 
 ## 🤝 Team Members
 
-| Name                  | Responsibility            | Email (if any)         |
-|-----------------------|--------------------------|------------------------|
-| Atharv Danave         | Outreach & PR            | example3@email.com     |
-| Tanmay Vishwakarma    | Events Coordinator       | example1@email.com     |
-| Pratik Sambherao      | Technical Lead           | example2@email.com     |
-| Aniket Hadawale       | Outreach & PR            | example3@email.com     |
-| Surendra Kamble       | Outreach & PR            | example3@email.com     |
+| Name                  | Responsibility            | Email (if any)                       |
+|-----------------------|--------------------------|---------------------------------------|
+| Atharv Danave         | Outreach & PR            | example3@email.com                    |
+| Tanmay Vishwakarma    | Technical Lead           | vishwakarma_tanmay@jaihind.edu.in     |
+| Pratik Sambherao      | Technical Lead           | example2@email.com                    |
+| Aniket Hadawale       | Outreach & PR            | example3@email.com                    |
+| Surendra Kamble       | Outreach & PR            | example3@email.com                    |
 
 
 ---
