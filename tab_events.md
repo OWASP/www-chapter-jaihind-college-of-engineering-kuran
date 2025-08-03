@@ -18,8 +18,6 @@ tags: example-tag
 **Date:** August 7-9, 2025
 **Location:** A.P.J. Abdul Kalam Seminar Hall, Jaihind College of Engineering Kuran, Pune
 
-> Join us for an action-packed three-day series dedicated to cybersecurity! From the official chapter inauguration to a hands-on workshop and a thrilling CTF competition, there's something for everyone.
-
 <br>
 
 #### **Day 1: OWASP Chapter Inauguration & AppSec Fundamentals (August 7)**
