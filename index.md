@@ -38,7 +38,7 @@ Dual Inauguration: The event marked the official launch of both the OWASP Studen
 
 A huge thank you to everyone who attended and contributed to the success of our inaugural event! We are excited to bring you more workshops, talks, and competitions.
 
-Stay connected with us for future events and updates on our Meetup page: OWASP Jaihind College of Engineering
+Stay connected with us for future events and updates on our Meetup page: [OWASP Jaihind College of Engineering](https://www.meetup.com/meetup-group-fcxeccgx/?eventOrigin=your_groups)
 
 Let's work together to create a more secure digital future! 👨‍💻👩‍💻
 
