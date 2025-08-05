@@ -5,7 +5,7 @@ title: OWASP Jaihind College of Engineering Kuran
 tags: example-tag
 region: Asia
 country: India
-meetup-group:
+meetup-group: fcxeccgx
 
 ---
 
@@ -25,23 +25,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-🚀 **Grand Inauguration of OWASP Student Chapter with Meetup & Cyber Sentinels Club** 🚀
-
-
-We are thrilled to announce the successful inauguration of the OWASP Student Chapter at Jaihind College of Engineering and our institute's very own cybersecurity club, the Cyber Sentinels! 🎉
-
-Our launch event on August 8th was a massive success, marking the beginning of a new chapter in cybersecurity awareness and hands-on learning at our college.
-
-**Event Highlights**:
-Cybersecurity Awareness Session: An insightful session that shed light on the latest trends and threats in the digital world.
-
-**Hands-On with Cybersecurity Tools**: Our esteemed guest speaker, Om Shewale, conducted an engaging workshop where students got to work with cutting-edge cybersecurity tools. 🛠️
-
-**Dual Inauguration**: The event marked the official launch of both the OWASP Student Chapter and the "Cyber Sentinels" club, solidifying our commitment to building a robust cybersecurity culture. 🛡️
-
-A huge thank you to everyone who attended and contributed to the success of our inaugural event! We are excited to bring you more workshops, talks, and competitions.
-
-Stay connected with us for future events and updates on our Meetup page: [OWASP Jaihind College of Engineering](https://www.meetup.com/meetup-group-fcxeccgx/?eventOrigin=your_groups)
-
-Let's work together to create a more secure digital future! 👨‍💻👩‍💻
+{% include chapter_events.html group=page.meetup-group %}
 
