@@ -5,7 +5,7 @@ title: OWASP Jaihind College of Engineering Kuran
 tags: example-tag
 region: Asia
 country: India
-meetup-group: fcxeccgx
+meetup-group: meetup-group-fcxeccgx
 
 ---
 
