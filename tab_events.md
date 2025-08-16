@@ -75,5 +75,8 @@ layout:  null
 tab: true
 order: 1
 tags: example-tag
+
+### Leaders
+**<img width = "200" height = "200" src="assets/event01.jpg"/>**
 ---
 
