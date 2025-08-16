@@ -76,7 +76,10 @@ tab: true
 order: 1
 tags: example-tag
 
-### Leaders
+### Event Images
 **<img width = "200" height = "200" src="assets/event01.jpg"/>**
+**<img width = "200" height = "200" src="assets/event03.jpg"/>**
+**<img width = "200" height = "200" src="assets/event03.jpg"/>**
+
 ---
 
