@@ -2,7 +2,7 @@
 title: Speakers
 layout:  null
 tab: true
-order: 2
+order: 3
 tags: example-tag
 
 ---
