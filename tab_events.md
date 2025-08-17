@@ -1,27 +1,23 @@
 ---
 title: Upcoming Events
-layout:  null
+layout: null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## 🗓️ Events
-
----
-
-### 🚀 Upcoming Events
+## 🗓️ Upcoming Events
 
 ---
 
 ### **Cyber Fest 2025**
-**Date:** August 7-9, 2025
+**Date:** August 7-9, 2025  
 **Location:** A.P.J. Abdul Kalam Seminar Hall, Jaihind College of Engineering Kuran, Pune
 
 <br>
 
 #### **Day 1: OWASP Chapter Inauguration & AppSec Fundamentals (August 7)**
-The week kicks off with the official inauguration of our chapter by Cyber Security Industry Expert, Om Shewale. The day will feature a welcome address, an introduction to OWASP's mission , and foundational sessions on application security.
+The week kicks off with the official inauguration of our chapter by Cyber Security Industry Expert, Om Shewale. The day will feature a welcome address, an introduction to OWASP's mission, and foundational sessions on application security.
 
 | Time                  | Activity                                      |
 | --------------------- | --------------------------------------------- |
@@ -61,25 +57,3 @@ Put your skills to the test in our day-long CTF competition. Compete individuall
 | 3:30 PM - 4:00 PM   | Awards Ceremony & Closing Remarks  |
 
 ---
-
-### 🏆 Past Events
-
----
-
-- **State Level CTF Competition**
-  - **Date:** March 2025
-  - **Participants:** 200
-  - **Description:** Our chapter hosted a state level Capture The Flag (CTF) competition at Jaihind College of Engineering, Kuran. The event attracted 200 participants from across the state, offering challenging problems in web security, cryptography, reverse engineering, and more. It was a great opportunity for students to showcase their skills and collaborate with peers passionate about cybersecurity.---
-title: Events
-layout:  null
-tab: true
-order: 1
-tags: example-tag
-
-### Event Images
-**<img width = "400" height = "400" src="assets/event01.jpg"/>**
-**<img width = "400" height = "400" src="assets/event02.jpg"/>**
-**<img width = "400" height = "400" src="assets/event03.jpg"/>**
-
----
-
