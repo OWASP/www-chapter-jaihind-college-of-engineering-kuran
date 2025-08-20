@@ -7,4 +7,4 @@
 
 **<img width = "200" height = "200" src="assets/Pranav_Malkunaik.JPG"/>**
 * [Pranav Malkunaik, Student Leader](mailto:pranav.malkunaik@owasp.org)
-
+* [Atharv Danave, Student Leader](mailto:atharv.danave@owasp.org)
