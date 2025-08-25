@@ -12,7 +12,7 @@ meetup-group: owasp-jcoe
 ## Welcome
 
 <div align="center">
-  <img src="/assets/tanmay.png" alt="Cyber Sentinel Logo" width="240" style="border-radius: 20px; box-shadow: 0 4px 32px rgba(0,0,0,0.15); margin-bottom: 20px;">
+  <img src="assets/tanmay.png" alt="Cyber Sentinel Logo" width="240" style="border-radius: 20px; box-shadow: 0 4px 32px rgba(0,0,0,0.15); margin-bottom: 20px;">
 
 </div>
 
