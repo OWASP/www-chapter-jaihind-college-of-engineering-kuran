@@ -10,6 +10,12 @@ meetup-group: owasp-jcoe
 ---
 
 ## Welcome
+
+<div align="center">
+  <img src="/assets/tanmay.png" alt="Cyber Sentinel Logo" width="240" style="border-radius: 20px; box-shadow: 0 4px 32px rgba(0,0,0,0.15); margin-bottom: 20px;">
+
+</div>
+
 Welcome to the OWASP Jaihind College of Engineering Kuran Chapter! 🎉
 
 We are a passionate group of students and cybersecurity enthusiasts dedicated to improving application security awareness in and around our campus.
