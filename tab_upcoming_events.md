@@ -13,7 +13,7 @@ tags: example-tag
 ### **National Level CTF Competition 2025**
 **Organized by:** JCOE Cyber Sentinels  
 **Rounds:** 2 (Online + Offline)  
-**Prize Pool:** ₹1,10,000
+**Prize Pool:** ₹1,10,000*
 
 #### 🥇 Round 1: 48hr Online CTF (Open for All)
 - **Dates:** 10th to 12th October 2025
@@ -26,7 +26,7 @@ tags: example-tag
 - **Format:** Offline, 24 hours, top teams from Round 1 compete for the championship
 
 #### 💰 Prize Pool & Sponsorship
-- **Total Prize Pool:** ₹1,10,000
+- **Total Prize Pool:** ₹1,10,000*
 - Accommodation and meals (lunch/dinner) provided for participants in the offline round
 
 #### 📝 Expression of Interest
