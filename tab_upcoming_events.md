@@ -33,4 +33,4 @@ tags: example-tag
 - Scan the QR code on the poster below to express interest (not final registration)
 - Join our WhatsApp group via the second QR for updates
 
-![Expression of interest.png](image1.png)
+![Expression of interest.png](assets/image1.png)
