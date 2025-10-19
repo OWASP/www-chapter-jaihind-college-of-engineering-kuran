@@ -1,0 +1,31 @@
+leaders:
+  - name: A.P. Bangar
+    email: ap.bangar@owasp.org
+    github: Swarnav0305
+  - name: Parth Patil
+    email: parth.patil@owasp.org
+    github: Parthpatil7
+  - name: Pranav Malkunaik
+    email: pranav.malkunaik@owasp.org
+    github: PM2003
+  - name: Atharv Danave
+    email: atharv.danave@owasp.org
+    github: AtharvDanave04
+location:
+  country: India
+  country_code: IN
+  region: Maharashtra
+  city: Kuran
+  latitude: 18.3883757
+  longitude: 73.6270078
+meetup_group: owasp-jcoe
+name: OWASP Jaihind College of Engineering Kuran
+repositories:
+  - name: www-chapter-jaihind-college-of-engineering-kuran
+    url: https://github.com/OWASP/www-chapter-jaihind-college-of-engineering-kuran
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-jaihind-college-of-engineering-kuran
