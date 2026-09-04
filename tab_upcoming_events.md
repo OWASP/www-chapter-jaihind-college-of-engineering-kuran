@@ -21,7 +21,7 @@ tags: example-tag
 - *Goal:* Shortlist top teams for the Grand Finale
 
 #### 🏆 Round 2: 24hr Offline CTF Grand Finale
-- *Date:* 2nd October 2026
+- *Date:* 30th to 31st October 2026
 - *Location:* Jaihind College Of Engineering, Kuran
 - *Format:* Offline, 24 hours, top teams from Round 1 compete for the championship
 
