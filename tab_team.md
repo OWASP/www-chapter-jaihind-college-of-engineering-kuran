@@ -16,7 +16,7 @@ Meet the dedicated members driving the OWASP Jaihind College of Engineering Kura
 
 | Name                          | Responsibility                     |
 |-------------------------------|------------------------------------|
-| Mr. Parth Patil               | President                          |                
+| Mr. Vishwakarma Tanmay        | President                          |                
 | Ms. Priti Rahul Shete         | Vice President                     |                
 | Mr. Aditya Jagdale            | Treasurer                          |                
 | Mr. Atharv Danave             | Secretary                          |                
