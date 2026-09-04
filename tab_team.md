@@ -89,5 +89,3 @@ Meet the dedicated members driving the OWASP Jaihind College of Engineering Kura
 
 ---
 
-*Interested in joining? Reach out to any of our team members or email [parth.patil@owasp.org](mailto:parth.patil@owasp.org)!*
-
