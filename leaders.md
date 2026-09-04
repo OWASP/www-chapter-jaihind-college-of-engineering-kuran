@@ -2,15 +2,14 @@
 **<img width = "200" height = "200" src="assets/bangar_sir.jpg"/>**
 * [A.P. Bangar, Faculty Advisor](mailto:ap.bangar@owasp.org)
 
-**<img width = "200" height = "200" src="assets/Pranav_Malkunaik.JPG"/>**
-* [Pranav Malkunaik, Student Leader](mailto:pranav.malkunaik@owasp.org)
-
-**<img width = "200" height = "200" src="assets/atharv_danave.png"/>**
-* [Atharv Danave, Student Leader](mailto:atharv.danave@owasp.org)
-
 **<img width = "200" height = "200" src="assets/Untitleddesign.jpeg"/>**
 * [Tanmay Vishwakarma, Student Leader](mailto:tanmay.vishwakarma@owasp.org)
 
 **<img width = "200" height = "200" src=""/>**
 * [Priti Shete, Student Leader](mailto:priti.shete@owasp.org)
 
+**<img width = "200" height = "200" src="assets/Pranav_Malkunaik.JPG"/>**
+* [Pranav Malkunaik, Student Leader](mailto:pranav.malkunaik@owasp.org)
+
+**<img width = "200" height = "200" src="assets/atharv_danave.png"/>**
+* [Atharv Danave, Student Leader](mailto:atharv.danave@owasp.org)
