@@ -8,7 +8,7 @@
 **<img width = "200" height = "200" src="assets/atharv_danave.png"/>**
 * [Atharv Danave, Student Leader](mailto:atharv.danave@owasp.org)
 
-**<img width = "200" height = "200" src=""/>**
+**<img width = "200" height = "200" src="assets/Untitleddesign.jpeg"/>**
 * [Tanmay Vishwakarma, Student Leader](mailto:tanmay.vishwakarma@owasp.org)
 
 **<img width = "200" height = "200" src=""/>**
