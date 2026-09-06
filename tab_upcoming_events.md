@@ -244,3 +244,5 @@ Through workshops, technical sessions, cybersecurity events, and competitions, t
 
 ---
 
+<img src="assets/Untitleddesign.jpeg"/>
+
